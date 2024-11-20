@@ -14,3 +14,7 @@ Link: [Background Changer](https://fatahpratam.github.io/tutorial-background-cha
 - Buat state baru dengan nama variabel color dan fungsi pengubah `setColor`.
 - Di dalam container div kecil, buat tiga tombol dengan teks `red, green, dan blue.`
 - Pada masing-masing tombol, berilah click event listener yang di dalamnya akan memanggil fungsi `setColor` dengan argumen warna sesuai dengan nama tombolnya.
+
+## Youtube Tutorial
+- Link: [Full Stack React Developer Course with Appwrite](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- Creator: [HiteshCodeLab](https://www.youtube.com/@HiteshCodeLab)
